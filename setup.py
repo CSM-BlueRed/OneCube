@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-import onecube
+import src as onecube
 
 
 setup(
